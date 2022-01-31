@@ -1,0 +1,29 @@
+#Solarized
+#In the making
+
+# Font Management
+font:
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+    size: 11
+
+  bold:
+    family: JetBrainsMono Nerd Font 
+    style: Bold
+    size: 11
+
+  italic:
+    family: JetBrainsMono Nerd Font 
+    style: Italic
+    size: 11
+
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+    style: Bold Italic
+    size: 11
+
+window:
+  padding:
+   x: 10
+   y: 10
