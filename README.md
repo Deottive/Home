@@ -32,3 +32,5 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 ## TODO ✅
 1. I want to add more themes like Solarized but config for alacritty is missing 
 2. Link the internal folders 
+3. Try WM someday, I have tried them but some stuff just does not work and then I give up
+4. Bash or Some Script to change everything from one command, I am learning programming so I have to learn that too
