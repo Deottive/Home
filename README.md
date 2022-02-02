@@ -13,6 +13,7 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 3. **Terminal** : [Alacritty](https://github.com/alacritty/alacritty) Fastest terminal 🍉
 4. **Panel** : [Dash to Panel](https://github.com/home-sweet-gnome/dash-to-panel) Customizability 🫀
 5. **Fonts** : [Nerd Fonts ](https://github.com/ryanoasis/nerd-fonts) For Icons ✍️ 
+6. **Terminal** : Kitty 🐱
 
 
 
@@ -26,6 +27,12 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 
 ### Ayu-Dark 💺
 ![Ayu-Dark](https://user-images.githubusercontent.com/71910027/151900301-d684a08b-2e2d-430e-9741-61865aa9a822.png)
+
+### Horizon 💜
+![Horizon-Rice](https://user-images.githubusercontent.com/71910027/152079557-71fdec1e-d07a-4bd7-bb86-d87e4e8ad3d4.png)
+
+### Dracula ⚰️
+![Dracula](https://user-images.githubusercontent.com/71910027/152079653-9b748b9a-1d88-4658-8522-c80ff9549380.png)
 
 
 
