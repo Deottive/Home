@@ -1,0 +1,38 @@
+foreground            #cacacc
+background            #1C1E27
+selection_foreground  #282e3a
+selection_background  #d9dce2
+url_color             #E4436F
+cursor                #D8DEE9
+
+# black
+color0   #1C1E27
+color8   #6C6F93
+
+# red
+color1   #E4436F
+color9   #E4436F
+
+# green
+color2   #24e39d
+color10  #24e39d
+
+# yellow
+color3   #EDA685
+color11  #EDA685
+
+# blue
+color4  #00A5AF
+color12 #00A5AF
+
+# magenta
+color5   #B367CF
+color13  #B367CF
+
+# cyan
+color6   #00A5AF
+color14  #00A5AF
+
+# white
+color7   #cacacc
+color15  #cacacc
