@@ -71,7 +71,4 @@ font:
     style: Bold Italic
     size: 11
 
-window:
-  padding:
-   x: 10
-   y: 10
+
