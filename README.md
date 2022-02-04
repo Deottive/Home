@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/71910027/151899215-8245363e-9df4-44d2-ba2c-cc2165bf6b8a.png)
+![Dotfiles](https://user-images.githubusercontent.com/71910027/152461823-b58126aa-ad72-483b-8dd8-e2cd47d6a26f.jpg)
+
 
 ## Home 🏚️
 Hello Ricers, So to be clear I am not using a WM and goofy stuff, Its me, my laptop and my Gnome desktop. I dont like the normal ubuntu or gnome layout but like the workflow and the simplicity. I love GTK apps because they are simple but I dont really use them because I use things like nitrogen, ranger and some other things. 
@@ -10,10 +11,11 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 
 1. **DE** : [Gnome](https://github.com/GNOME) Simplicity 👣
 2. **File manager** : [Ranger](https://github.com/ranger/ranger) I also have a devicon patch for icons 🗃️
-3. **Terminal** : [Alacritty](https://github.com/alacritty/alacritty) Fastest terminal 🍉
+3. **Terminal** : [Alacritty](https://github.com/alacritty/alacritty) Fastest terminal 🍉 and Kitty
 4. **Panel** : [Dash to Panel](https://github.com/home-sweet-gnome/dash-to-panel) Customizability 🫀
 5. **Fonts** : [Nerd Fonts ](https://github.com/ryanoasis/nerd-fonts) For Icons ✍️ 
 
+![Themes](https://user-images.githubusercontent.com/71910027/152461868-02d086bf-1031-4851-bea4-9d26dcb3a76a.jpg)
 
 
 ## Rices 🍙
@@ -26,6 +28,12 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 
 ### Ayu-Dark 💺
 ![Ayu-Dark](https://user-images.githubusercontent.com/71910027/151900301-d684a08b-2e2d-430e-9741-61865aa9a822.png)
+
+### Horizon 💜
+![Horizon-Rice](https://user-images.githubusercontent.com/71910027/152079557-71fdec1e-d07a-4bd7-bb86-d87e4e8ad3d4.png)
+
+### Dracula ⚰️
+![Dracula](https://user-images.githubusercontent.com/71910027/152079653-9b748b9a-1d88-4658-8522-c80ff9549380.png)
 
 
 
