@@ -1,4 +1,3 @@
-![Dotfiles](https://user-images.githubusercontent.com/71910027/152461823-b58126aa-ad72-483b-8dd8-e2cd47d6a26f.jpg)
 
 
 ## Home 🏚️
@@ -14,8 +13,6 @@ I use Pop shell for tiling like everybody and you should too. I am not using the
 3. **Terminal** : [Alacritty](https://github.com/alacritty/alacritty) Fastest terminal 🍉 and Kitty
 4. **Panel** : [Dash to Panel](https://github.com/home-sweet-gnome/dash-to-panel) Customizability 🫀
 5. **Fonts** : [Nerd Fonts ](https://github.com/ryanoasis/nerd-fonts) For Icons ✍️ 
-
-![Themes](https://user-images.githubusercontent.com/71910027/152461868-02d086bf-1031-4851-bea4-9d26dcb3a76a.jpg)
 
 
 ## Rices 🍙
