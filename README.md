@@ -1,4 +1,4 @@
-
+This is an old repo and only for those who are using a lower version of gnome like 3.38 
 
 ## Home 🏚️
 Hello Ricers, So to be clear I am not using a WM and goofy stuff, Its me, my laptop and my Gnome desktop. I dont like the normal ubuntu or gnome layout but like the workflow and the simplicity. I love GTK apps because they are simple but I dont really use them because I use things like nitrogen, ranger and some other things. 
